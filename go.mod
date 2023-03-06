@@ -10,7 +10,10 @@ require (
 
 require (
 	github.com/client9/misspell v0.3.4 // indirect
+	github.com/gorilla/handlers v1.5.1
+	github.com/gorilla/mux v1.8.0
 	github.com/kisielk/errcheck v1.6.0 // indirect
+	github.com/lib/pq v1.10.7 // indirect
 	github.com/po3rin/gofmtmd v0.1.3 // indirect
 	golang.org/x/lint v0.0.0-20210508222113-6edffad5e616 // indirect
 	golang.org/x/tools v0.1.10 // indirect
